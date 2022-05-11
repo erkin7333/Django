@@ -1,0 +1,2 @@
+# Django
+Djangoda qilingan portfoliya
